@@ -2,14 +2,14 @@
 {
   "name": "react-native-compress",
   "version": "2.0.0",
-  "description": "",
+  "description": "compression for react native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phuochau/react-native-compress.git"
+    "url": "git+https://github.com/buraktt/react-native-compress.git"
   },
   "keywords": [
     "react-native"
@@ -18,5 +18,6 @@
   "license": "",
   "peerDependencies": {
     "react-native": "^0.43.3"
-  }
+  },
+  "homepage": "https://github.com/buraktt/react-native-compress"
 }
